@@ -1,0 +1,12 @@
+# Required pacakges
+MASS
+speff2trial
+tmvtnorm
+matrixcalc
+corpcor
+foreach
+doParallel
+dplyr
+rmutil
+epiDisplay
+plyr

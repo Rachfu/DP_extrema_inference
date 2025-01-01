@@ -1,0 +1,320 @@
+Parameter settings for OLS : 
+epsilon= 1.5 
+theta_true= 0 0 
+k_par= 1 
+[1] "r_cv for OLS is:"
+$non_pri_r_cv
+[1] 0.2
+
+$whole_pri_r_cv
+[1] 0.03333333
+
+$par_pri_r_cv
+[1] 0.1
+
+$coverage_PB
+[1] 0.940 0.927 0.925 0.924 0.910 0.886 0.910
+
+$length_PB
+[1] 0.09431407 0.09191364 0.09141732 0.09084159 0.08862723 0.07806230 0.08862723
+
+$coverage_whole_HPPB
+[1] 0.947 0.944 0.942 0.939 0.931 0.899 0.944
+
+$length_whole_HPPB
+[1] 0.11475133 0.11210796 0.11151442 0.11082806 0.10806748 0.09533209 0.11210796
+
+$coverage_partial_HPPB
+[1] 0.948 0.939 0.938 0.938 0.927 0.882 0.938
+
+$length_partial_HPPB
+[1] 0.10508512 0.10259722 0.10208371 0.10148008 0.09890582 0.08705335 0.10148008
+
+$coverage_naive
+[1] 0.883
+
+$length_naive
+[1] 0.07431459
+
+$coverage_whole_naive
+[1] 0.84
+
+$length_whole_naive
+[1] 0.07513807
+
+$coverage_partial_naive
+[1] 0.858
+
+$length_partial_naive
+[1] 0.07487857
+
+$scale_of_noise
+[1] 19.48567
+
+Parameter settings for OLS : 
+epsilon= 5 
+theta_true= 0 0 
+k_par= 1 
+[1] "r_cv for OLS is:"
+$non_pri_r_cv
+[1] 0.06666667
+
+$whole_pri_r_cv
+[1] 0.1
+
+$par_pri_r_cv
+[1] 0.1
+
+$coverage_PB
+[1] 0.940 0.927 0.925 0.924 0.910 0.886 0.925
+
+$length_PB
+[1] 0.09431407 0.09191364 0.09141732 0.09084159 0.08862723 0.07806230 0.09141732
+
+$coverage_whole_HPPB
+[1] 0.940 0.929 0.926 0.924 0.911 0.872 0.924
+
+$length_whole_HPPB
+[1] 0.09642872 0.09403827 0.09351296 0.09289694 0.09044084 0.07986173 0.09289694
+
+$coverage_partial_HPPB
+[1] 0.938 0.932 0.929 0.928 0.915 0.875 0.928
+
+$length_partial_HPPB
+[1] 0.09537196 0.09307935 0.09259585 0.09201868 0.08957902 0.07903876 0.09201868
+
+$coverage_naive
+[1] 0.883
+
+$length_naive
+[1] 0.07431459
+
+$coverage_whole_naive
+[1] 0.873
+
+$length_whole_naive
+[1] 0.07456862
+
+$coverage_partial_naive
+[1] 0.878
+
+$length_partial_naive
+[1] 0.07448561
+
+$scale_of_noise
+[1] 5.845702
+
+Parameter settings for OLS : 
+epsilon= 1.5 
+theta_true= 0 1 
+k_par= 1 
+[1] "r_cv for OLS is:"
+$non_pri_r_cv
+[1] 0.2
+
+$whole_pri_r_cv
+[1] 0.06666667
+
+$par_pri_r_cv
+[1] 0.2
+
+$coverage_PB
+[1] 0.972 0.940 0.938 0.936 0.935 0.935 0.935
+
+$length_PB
+[1] 0.1377247 0.1195138 0.1180441 0.1169918 0.1159206 0.1158922 0.1159206
+
+$coverage_whole_HPPB
+[1] 0.972 0.956 0.955 0.953 0.951 0.951 0.955
+
+$length_whole_HPPB
+[1] 0.1792773 0.1585194 0.1561024 0.1537353 0.1495450 0.1485771 0.1561024
+
+$coverage_partial_HPPB
+[1] 0.984 0.962 0.953 0.943 0.935 0.932 0.935
+
+$length_partial_HPPB
+[1] 0.1599837 0.1309016 0.1271898 0.1238071 0.1172992 0.1157428 0.1172992
+
+$coverage_naive
+[1] 0.941
+
+$length_naive
+[1] 0.1176618
+
+$coverage_whole_naive
+[1] 0.896
+
+$length_whole_naive
+[1] 0.1161252
+
+$coverage_partial_naive
+[1] 0.941
+
+$length_partial_naive
+[1] 0.1172332
+
+$scale_of_noise
+[1] 18.95217
+
+Parameter settings for OLS : 
+epsilon= 5 
+theta_true= 0 1 
+k_par= 1 
+[1] "r_cv for OLS is:"
+$non_pri_r_cv
+[1] 0.2
+
+$whole_pri_r_cv
+[1] 0.1
+
+$par_pri_r_cv
+[1] 0.2
+
+$coverage_PB
+[1] 0.972 0.940 0.938 0.936 0.935 0.935 0.935
+
+$length_PB
+[1] 0.1377247 0.1195138 0.1180441 0.1169918 0.1159206 0.1158922 0.1159206
+
+$coverage_whole_HPPB
+[1] 0.970 0.942 0.942 0.941 0.939 0.939 0.941
+
+$length_whole_HPPB
+[1] 0.1418980 0.1234528 0.1219885 0.1208302 0.1195564 0.1195000 0.1208302
+
+$coverage_partial_HPPB
+[1] 0.971 0.941 0.937 0.937 0.934 0.934 0.934
+
+$length_partial_HPPB
+[1] 0.1399744 0.1201972 0.1185657 0.1172140 0.1157214 0.1156403 0.1157214
+
+$coverage_naive
+[1] 0.941
+
+$length_naive
+[1] 0.1176618
+
+$coverage_whole_naive
+[1] 0.933
+
+$length_whole_naive
+[1] 0.1173775
+
+$coverage_partial_naive
+[1] 0.941
+
+$length_partial_naive
+[1] 0.117634
+
+$scale_of_noise
+[1] 5.685652
+
+Parameter settings for OLS : 
+epsilon= 1.5 
+theta_true= 0 0 0 0 0 0 0 0 
+k_par= 4 
+[1] "r_cv for OLS is:"
+$non_pri_r_cv
+[1] 0.06666667
+
+$whole_pri_r_cv
+[1] 0.1
+
+$par_pri_r_cv
+[1] 0.2
+
+$coverage_PB
+[1] 0.948 0.928 0.926 0.920 0.896 0.735 0.926
+
+$length_PB
+[1] 0.15212888 0.14058484 0.13813057 0.13518936 0.12291993 0.06195168 0.13813057
+
+$coverage_whole_HPPB
+[1] 0.974 0.968 0.967 0.965 0.957 0.884 0.965
+
+$length_whole_HPPB
+[1] 8.866526 8.488748 8.405041 8.303302 7.842609 3.143343 8.303302
+
+$coverage_partial_HPPB
+[1] 0.975 0.974 0.974 0.974 0.971 0.905 0.971
+
+$length_partial_HPPB
+[1] 6.1024809 5.7625161 5.6875752 5.5963976 5.1844154 0.8451172 5.1844154
+
+$coverage_naive
+[1] 0.676
+
+$length_naive
+[1] 0.03379613
+
+$coverage_whole_naive
+[1] 0.5096154
+
+$length_whole_naive
+[1] -0.3678616
+
+$coverage_partial_naive
+[1] 0.5239726
+
+$length_partial_naive
+[1] -0.1145692
+
+$scale_of_noise
+[1] 197.0502
+
+Parameter settings for OLS : 
+epsilon= 1.5 
+theta_true= 0 0 0 0 0 0 0 1 
+k_par= 4 
+[1] "r_cv for OLS is:"
+$non_pri_r_cv
+[1] 0.03333333
+
+$whole_pri_r_cv
+[1] 0.1
+
+$par_pri_r_cv
+[1] 0.2
+
+$coverage_PB
+[1] 0.992 0.973 0.967 0.963 0.949 0.938 0.973
+
+$length_PB
+[1] 0.3588505 0.3108123 0.3016501 0.2913666 0.2572155 0.2338309 0.3108123
+
+$coverage_whole_HPPB
+[1] 0.971 0.967 0.964 0.961 0.958 0.885 0.961
+
+$length_whole_HPPB
+[1] 10.653504 10.158713 10.049512  9.917031  9.315545  3.101485  9.917031
+
+$coverage_partial_HPPB
+[1] 0.980 0.975 0.975 0.975 0.971 0.919 0.971
+
+$length_partial_HPPB
+[1] 8.2421559 7.7392812 7.6284755 7.4932009 6.8816391 0.4982099 6.8816391
+
+$coverage_naive
+[1] 0.941
+
+$length_naive
+[1] 0.2385616
+
+$coverage_whole_naive
+[1] 0.7395437
+
+$length_whole_naive
+[1] -1.552227
+
+$coverage_partial_naive
+[1] 0.7357955
+
+$length_partial_naive
+[1] -0.2784798
+
+$scale_of_noise
+[1] 191.0658
+
+
+

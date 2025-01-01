@@ -1,0 +1,53 @@
+Parameter settings for OLS_t : 
+epsilon= 1.5 
+theta_true= 0 0 
+k_par= 1 
+[1] "r_cv for OLS is:"
+$non_pri_r_cv
+[1] 0.06666667
+
+$whole_pri_r_cv
+[1] 0.03333333
+
+$par_pri_r_cv
+[1] 0.03333333
+
+$coverage_PB
+[1] 0.939 0.936 0.935 0.934 0.927 0.896 0.935
+
+$length_PB
+[1] 0.10844974 0.10599522 0.10549473 0.10490230 0.10248156 0.09029741 0.10549473
+
+$coverage_whole_HPPB
+[1] 0.951 0.948 0.943 0.942 0.937 0.907 0.948
+
+$length_whole_HPPB
+[1] 0.1395549 0.1365523 0.1358946 0.1351007 0.1319855 0.1163197 0.1365523
+
+$coverage_partial_HPPB
+[1] 0.946 0.941 0.937 0.936 0.933 0.905 0.941
+
+$length_partial_HPPB
+[1] 0.1245626 0.1217035 0.1211004 0.1204159 0.1174876 0.1025505 0.1217035
+
+$coverage_naive
+[1] 0.903
+
+$length_naive
+[1] 0.08566755
+
+$coverage_whole_naive
+[1] 0.847
+
+$length_whole_naive
+[1] 0.08484328
+
+$coverage_partial_naive
+[1] 0.874
+
+$length_partial_naive
+[1] 0.08388705
+
+$scale_of_noise
+[1] 8.129556
+
